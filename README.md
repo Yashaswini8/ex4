@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 26-4-25
+## Date: 26-04-25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -130,8 +130,8 @@ With a neat store layout and regular new arrivals, it has become a favorite shop
 
 ## OUTPUT
 ![alt text](<1 (3)-1.png>)
-![alt text](3.png)
 ![alt text](2.png)
+![alt text](3.png)
 
 
 
